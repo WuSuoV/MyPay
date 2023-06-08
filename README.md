@@ -1,4 +1,4 @@
-# Payment Code
+# MyPay of SkyQian
 
 一个拥有高度自适应设备尺寸的网页，用于展示您所有钱包的收款码
 
