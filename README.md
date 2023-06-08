@@ -1,6 +1,6 @@
-# Payment Code
+# MyPay of SkyQian
 
-一个拥有高度自适应设备尺寸的网页，用于展示您所有钱包的收款码
+一个包含微信、支付宝、QQ和USDT收款的在线页面。
 
 <img src="./assets/Payment-Code.png" alt="主界面"  />
 
