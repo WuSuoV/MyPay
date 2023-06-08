@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	var qrCode3Image = new Image(); /* 创建一个Image对象用于加载QR Code图像 */
 	qrCode3Image.src = new QRCode(document.createElement("div") /* 创建一个div元素 */, {
-		text: "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQwpOnuQMYjemApAZCIDliNTNjMjkyM2U0OWVkODJjMjRjYTUxYTNmYmUzMmE4_xxx_sign&u=925485506&n=%E6%88%91%E4%B8%8E%E4%B8%96%E7%95%8C%E5%8F%AA%E5%B7%AE%E4%B8%80%E4%B8%AA%E4%BD%A0" /* 设置二维码3的内容 */,
+		text: "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ34nkCxj2rIWkBkIgNGMzYTk1MjhhMDI5MzM3Yzk3NjQ4Y2YzZDE4MTkxNjY%3D_xxx_sign&u=24708319&n=%E5%8B%BF%E5%9F%8B%E6%88%91%E5%BF%83" /* 设置二维码3的内容 */,
 		width: 300 /* 设置二维码宽度 */,
 		height: 300 /* 设置二维码高度 */,
 		correctLevel: QRCode.CorrectLevel.H /* 设置二维码纠错级别 */,
