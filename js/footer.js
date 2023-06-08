@@ -1,10 +1,3 @@
-/*
-Program name: Payment Code
-Author: NianBroken
-Website: https://www.nianbroken.top/
-Gmail: suinian666@gmail.com
-Time: 2023.06.06
-*/
 document.addEventListener("DOMContentLoaded", function () {
 	// 选择容器元素和所有二维码元素
 	var container = document.querySelector(".container");

@@ -2,8 +2,7 @@
 
 一个包含微信、支付宝、QQ和USDT收款的在线页面。
 
-<img src="./assets/Payment-Code.png" alt="主界面"  />
-
+![](./assets/MyPay.png)
 
 ## 使用
 

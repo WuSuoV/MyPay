@@ -1,10 +1,3 @@
-/*
-Program name: Payment Code
-Author: NianBroken
-Website: https://www.nianbroken.top/
-Gmail: suinian666@gmail.com
-Time: 2023.06.06
-*/
 document.addEventListener("DOMContentLoaded", function () {
 	// 创建用于显示 container.offsetWidth 的元素
 	var offsetWidthDisplay = document.createElement("div"); // 创建一个 div 元素作为显示容器的宽度
