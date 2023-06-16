@@ -18,4 +18,4 @@
 
 ## 我的博客
 
-* [https://www.skyqian.com](https://www.skyqian.com)
+* [https://www.skyqian.com](https://www.skyqian.com/?from=github.com/Qiantigers/MyPay)
