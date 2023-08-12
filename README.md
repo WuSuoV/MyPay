@@ -14,7 +14,7 @@
 
 ## DEMO
 
-- [https://pay.qian.blue](https://pay.qian.blue)
+- [https://i.skyqian.com/pay/](https://i.skyqian.com/pay/)
 
 ## 我的博客
 
